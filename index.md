@@ -1,6 +1,6 @@
 ## Evie Qiu
 ## welcom :)
-You can watch my[CV](https://github.com/EvieQ01/EvieQ01.github.io/blob/gh-pages/CV_Yiwen_Qiu.pdf) here!
+You can watch my [CV](https://github.com/EvieQ01/EvieQ01.github.io/blob/gh-pages, CV_Yiwen_Qiu.pdf ) here!
 
 ### Support or Contact
 
